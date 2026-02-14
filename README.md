@@ -8,6 +8,10 @@ A full-stack dashboard to log system communications:
 
 This project **does not send real Email/SMS/WhatsApp**. It only creates database entries and displays them in tab-based list views.
 
+
+## Demo Video (Django Version)
+https://drive.google.com/file/d/1lmj7CfHYxVjl2jO_zVkBameT7N5WYWJ7/view?usp=sharing
+
 ## Features
 - Tabs: Emails / SMS / WhatsApp
 - Different list view columns per channel
